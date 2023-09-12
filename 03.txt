@@ -1,0 +1,29 @@
+React
+clase 3
+Crear proyecto
+
+CREATE REACT APP (tmb muy usado, tmb ParcelJS)
+vs
+VITEjs (USADO EN EL CURSO)
+
+dos formas diferentes de levantar un proyecto:
+
+JSX
+-Siempre hay que retornar un solo elemento
+-Se puede usar div, tmb FRAGMENTS
+-<> FRAGMENTS: etiqueta vacía.
+- Si ponemos una etiqueta solo para contener, agregamos elementos al DOM.
+-Pero si queremos ESTILA o agregar otra cosa, si un Div, seccion etc
+
+*className (en lugar de class en JSX, para clases)
+*usar camelCase (para atributos, eventos, estilos)
+*estilos en linea, DOBLE LLAVER {{
+{ 1era porque usamos codigo javascrit
+[ 2do elemento como objeto
+
+-Estilo en linea no es buena práctica
+
+
+EJERCICIO COVERTIR HTML A JSX
+-indentado: ALT + SHIFT + F
+
